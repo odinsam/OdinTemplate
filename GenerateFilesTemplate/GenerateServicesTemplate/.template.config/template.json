@@ -1,0 +1,16 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "odinsam",
+    "classifications": ["Web", "Micro Service"],
+    "name": "odinsam.generate.csprojfile.Template",
+    "identity": "odinsam.generate.csprojfile.Template",
+    "groupIdentity": "odinsam.generate.csprojfile.Template",
+    "shortName": "odin-gen-log",
+    "tags": {
+        "language": "json",
+        "type": "project"
+    },
+    "guids": ["3e3b881c-3d44-ef64-5e9c-82461f2030b5"],
+    "sourceName": "odinsam.generate.csprojfile.Template",
+    "preferNameDirectory": true
+}
