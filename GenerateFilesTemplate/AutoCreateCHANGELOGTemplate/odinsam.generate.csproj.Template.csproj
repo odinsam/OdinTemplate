@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="./common.props" />
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>odinsam.generate.csproj.Template</AssemblyName>
+    <RootNamespace>odinsam.generate.csproj.Template</RootNamespace>
+    <PackageId>odinsam.generate.csproj.Template</PackageId>
+    
+    <Authors>$(OdinAuthors)</Authors>
+    <Company>$(OdinCompany)</Company>
+    <Copyright>$(OdinCopyright)</Copyright>
+    <Product>$(OdinProduct)</Product>
+    <Description>$(OdinDescription)</Description>
+    <RepositoryType>$(OdinRepositoryType)</RepositoryType>
+    <PackageTags>$(OdinPackageTags)</PackageTags>
+    <Title>odinsam.generate.csproj.Template</Title>
+    <PackageProjectUrl>$(OdinGitUrl)/odinsam.generate.csproj.Template</PackageProjectUrl>
+    <RepositoryUrl>$(OdinGitUrl)/$(OdinAssemblyName)</RepositoryUrl>
+    <RepositoryBranch>master</RepositoryBranch>
+    <PackageIcon>icon.png</PackageIcon>
+    <IsPackable>true</IsPackable>
+    <GenerateDocumentationFile>$(OdinGenerateDocumentationFile)</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="images\icon.png" Pack="true" PackagePath="" />
+  </ItemGroup>
+</Project>
