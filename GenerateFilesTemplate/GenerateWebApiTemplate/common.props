@@ -1,0 +1,12 @@
+<Project>
+    <PropertyGroup>
+        <OdinVersion>1.0.0</OdinVersion>
+        <OdinAuthors>odinSam</OdinAuthors>
+        <OdinCompany>odinSam</OdinCompany>
+        <OdinCopyright>版权所有 (c) odinsam 2021</OdinCopyright>
+        <OdinProduct>odinSam</OdinProduct>
+        <OdinRepositoryType>git</OdinRepositoryType>
+        <OdinGitUrl>https://github.com/odinsam</OdinGitUrl>
+        <OdinGenerateDocumentationFile>true</OdinGenerateDocumentationFile>
+    </PropertyGroup>
+</Project>

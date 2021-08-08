@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <Version>$(OdinVersion)</Version>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>GenerateWebApiTemplate</AssemblyName>
+    <RootNamespace>GenerateWebApiTemplate</RootNamespace>
+    
+    <Authors>$(OdinAuthors)</Authors>
+    <Company>$(OdinCompany)</Company>
+    <Copyright>$(OdinCopyright)</Copyright>
+    <Product>$(OdinProduct)</Product>
+    <Description>$(OdinDescription)</Description>
+    <RepositoryType>$(OdinRepositoryType)</RepositoryType>
+    <Title>GenerateWebApiTemplate</Title>
+    <RepositoryUrl>$(OdinGitUrl)/GenerateWebApiTemplate</RepositoryUrl>
+    <RepositoryBranch>master</RepositoryBranch>
+    <GenerateDocumentationFile>$(OdinGenerateDocumentationFile)</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+</Project>

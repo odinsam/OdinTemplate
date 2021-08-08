@@ -16,7 +16,7 @@
     <PackageTags>$(OdinPackageTags)</PackageTags>
     <Title>odinsam.generate.csproj.Template</Title>
     <PackageProjectUrl>$(OdinGitUrl)/odinsam.generate.csproj.Template</PackageProjectUrl>
-    <RepositoryUrl>$(OdinGitUrl)/$(OdinAssemblyName)</RepositoryUrl>
+    <RepositoryUrl>$(OdinGitUrl)/odinsam.generate.csproj.Template</RepositoryUrl>
     <RepositoryBranch>master</RepositoryBranch>
     <PackageIcon>icon.png</PackageIcon>
     <IsPackable>true</IsPackable>

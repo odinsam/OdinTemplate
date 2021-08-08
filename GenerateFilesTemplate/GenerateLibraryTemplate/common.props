@@ -11,5 +11,6 @@
         <OdinIsPackable>true</OdinIsPackable>
         <OdinPackageIcon>icon.png</OdinPackageIcon>
         <OdinGenerateDocumentationFile>true</OdinGenerateDocumentationFile>
+        <NoWarn>CS1591</NoWarn>
     </PropertyGroup>
 </Project>
