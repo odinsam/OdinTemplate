@@ -1,16 +1,16 @@
 {
     "$schema": "http://json.schemastore.org/template",
     "author": "odinsam",
-    "classifications": ["Web", "Micro Service"],
-    "name": "odinsam.generate.csproj.Template",
-    "identity": "odinsam.generate.csproj.Template",
-    "groupIdentity": "odinsam.generate.csproj.Template",
-    "shortName": "odin-gen-csproj",
+    "classifications": ["classlib"],
+    "name": "GenerateLibraryTemplate",
+    "identity": "GenerateLibraryTemplate",
+    "groupIdentity": "GenerateLibraryTemplate",
+    "shortName": "odin-classlib",
     "tags": {
-        "language": "json",
+        "language": "c#",
         "type": "project"
     },
     "guids": ["b1cf27e6-3753-ca1f-7b41-6e0ea9ae50e0"],
-    "sourceName": "odinsam.generate.csproj.Template",
+    "sourceName": "GenerateLibraryTemplate",
     "preferNameDirectory": true
 }

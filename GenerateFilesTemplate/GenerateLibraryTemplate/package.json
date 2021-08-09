@@ -1,18 +1,18 @@
 {
-    "name": "odinsam.generate.csproj.Template",
-    "description": "odinsam.generate.csproj.Template",
+    "name": "GenerateLibraryTemplate",
+    "description": "GenerateLibraryTemplate",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/odinsam/odinsam.generate.csproj.Template"
+        "url": "git+https://github.com/odinsam/GenerateLibraryTemplate"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/odinsam/odinsam.generate.csproj.Template/issues"
+        "url": "https://github.com/odinsam/GenerateLibraryTemplate/issues"
     },
-    "homepage": "https://github.com/odinsam/odinsam.generate.csproj.Template#readme",
+    "homepage": "https://github.com/odinsam/GenerateLibraryTemplate#readme",
     "version": "1.0.0",
     "scripts": {
         "release": "standard-version",

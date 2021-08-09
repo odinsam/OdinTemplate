@@ -3,9 +3,9 @@
   <PropertyGroup>
     <Version>$(OdinVersion)</Version>
     <TargetFramework>net5.0</TargetFramework>
-    <AssemblyName>odinsam.generate.csproj.Template</AssemblyName>
-    <RootNamespace>odinsam.generate.csproj.Template</RootNamespace>
-    <PackageId>odinsam.generate.csproj.Template</PackageId>
+    <AssemblyName>GenerateLibraryTemplate</AssemblyName>
+    <RootNamespace>GenerateLibraryTemplate</RootNamespace>
+    <PackageId>GenerateLibraryTemplate</PackageId>
     
     <Authors>$(OdinAuthors)</Authors>
     <Company>$(OdinCompany)</Company>
@@ -14,9 +14,9 @@
     <Description>$(OdinDescription)</Description>
     <RepositoryType>$(OdinRepositoryType)</RepositoryType>
     <PackageTags>$(OdinPackageTags)</PackageTags>
-    <Title>odinsam.generate.csproj.Template</Title>
-    <PackageProjectUrl>$(OdinGitUrl)/odinsam.generate.csproj.Template</PackageProjectUrl>
-    <RepositoryUrl>$(OdinGitUrl)/odinsam.generate.csproj.Template</RepositoryUrl>
+    <Title>GenerateLibraryTemplate</Title>
+    <PackageProjectUrl>$(OdinGitUrl)/GenerateLibraryTemplate</PackageProjectUrl>
+    <RepositoryUrl>$(OdinGitUrl)/GenerateLibraryTemplate</RepositoryUrl>
     <RepositoryBranch>master</RepositoryBranch>
     <PackageIcon>icon.png</PackageIcon>
     <IsPackable>true</IsPackable>
