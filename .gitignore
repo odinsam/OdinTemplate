@@ -1,3 +1,14 @@
 node_modules
 .vscode
 .vs
+
+GenerateFilesTemplate/GenerateLibraryTemplate/bin
+GenerateFilesTemplate/GenerateLibraryTemplate/obj
+
+GenerateFilesTemplate/GenerateServicesTemplate/bin
+GenerateFilesTemplate/GenerateServicesTemplate/obj
+
+
+GenerateFilesTemplate/GenerateWebApiTemplate/bin
+GenerateFilesTemplate/GenerateWebApiTemplate/obj
+
