@@ -20,6 +20,13 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <ProjectReference Include="/Users/odin/workSpace/Odin_Github/odinmaf/OdinPlugs.OdinInject/OdinPlugs.OdinInject.csproj" />
+    <ProjectReference Include="/Users/odin/workSpace/Odin_Github/odinmaf/OdinPlugs.SnowFlake/OdinPlugs.SnowFlake.csproj" />
+    <ProjectReference Include="/Users/odin/workSpace/Odin_Github/odinmaf/OdinPlugs.ApiLinkMonitor/OdinPlugs.ApiLinkMonitor.csproj" />
+    <ProjectReference Include="/Users/odin/workSpace/Odin_Github/odinmaf/OdinPlugs.OdinWebApi/OdinPlugs.OdinWebApi.csproj" />
+    <ProjectReference Include="/Users/odin/workSpace/Odin_Github/odinmaf/OdinPlugs.OdinEFCore/OdinPlugs.OdinEFCore.csproj" />
+    <ProjectReference Include="/Users/odin/workSpace/Odin_Github/odinmaf/OdinPlugs.OdinNoSql/OdinPlugs.OdinNoSql.csproj" />
+    <ProjectReference Include="/Users/odin/workSpace/Odin_Github/odinmaf/OdinPlugs.OdinMQ/OdinPlugs.OdinMQ.csproj" />
   </ItemGroup>
 
 </Project>
